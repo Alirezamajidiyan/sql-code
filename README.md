@@ -86,7 +86,7 @@
 
 برای مشاهده کدها و مشارکت در پروژه، به مخزن گیت‌هاب مراجعه کنید:
 
-- [GitHub Repository]([https://github.com/your-repo](https://github.com/Alirezamajidiyan/sql-code/tree/main))
+- [GitHub Repository](https://github.com/your-repo](https://github.com/Alirezamajidiyan/sql-code/tree/main)
 
 ---
 
